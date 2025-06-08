@@ -1,2 +1,4 @@
-# Java-MiniProjects
-A collection of random Java mini projects for practice, featuring various small applications to improve programming skills.
+# Java Mini Projects 🚀
+
+Welcome to my collection of mini Java projects!  
+These are small, fun, and practical projects that help improve my Java and OOP skills.
